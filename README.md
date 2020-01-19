@@ -1,3 +1,3 @@
 # Python
 Python勉強用
-![gif](wiki/images/rsp.gif)
+![gif](https://raw.github.com/wiki/Nogami111/Python/images/rsp.gif)
